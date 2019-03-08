@@ -13,6 +13,18 @@
             "title": "Post 3"
         }
     ],
+    "person": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "gender": "F"
+        }
+    ],   
     "comments": [
         {
             "id": 1,
