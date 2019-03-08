@@ -1,23 +1,23 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "person": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "gender": "F"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "person": [
-    {
-      "id": 1,
-      "name": "John Smith",
-      "gender": "M"
-    }
-    {
-      "id": 2,
-      "name": "Jane Doe",
-      "gender": "F"
-    }
-  ],  
-  "profile": {
-    "name": "typicode"
-  }
 }
